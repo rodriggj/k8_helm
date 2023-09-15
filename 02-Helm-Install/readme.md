@@ -8,7 +8,7 @@
 ```helm repo add```
 ```helm repo update```
 ```helm search repo```
-```helm install``
+```helm install```
 ```helm list```
 ```helm uninstall```
 
