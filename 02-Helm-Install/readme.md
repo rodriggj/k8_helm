@@ -13,5 +13,5 @@
 ```helm uninstall``
 
 <p align="center">
-    <img width="350" alt="image" src="https://github.com/rodriggj/k8_helm/assets/8760590/ec4ec36c-fbda-4024-be2f-e2568acf7689">
+    <img width="1250" alt="image" src="https://github.com/rodriggj/k8_helm/assets/8760590/ec4ec36c-fbda-4024-be2f-e2568acf7689">
 </p>
